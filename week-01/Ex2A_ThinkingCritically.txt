@@ -1,0 +1,57 @@
+1. Before doing any other investigation, list two or three questions that this infographic and explanation of methodology raise in your mind.
+
+How can they know it's break up food and not just a food they decided to eat because they wanted to eat it? 
+Do the lifestyle in different places effect the foods people choose to eat?
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+https://trends.google.com/trends/
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food, topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and
+change the date range to February 1, 2024 through February 28, 2025.
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+
+Highest peak is the most recent at 100. 
+
+b) What is the lowest dip recorded?
+
+Lowest is at Nov. 30 to Dec. 31 at 63.
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest peak recorded for searches using Hamburger? What is the lowest dip?
+
+Highest peak is April 30 - May 31. Lowest is Nov. 30 to Dec. 31 at 69. 
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+
+The line for milkshake is the same but the values are much lower with highs at 34 and lows at 22. 
+
+5. Why did the line for Milkshake change?
+
+The lines are based of searches so adding the new line with more searching over time compared to milkshake will drop the milkshake line. 
+
+6. Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+
+No noticable patterns. 
+
+b) How about between Breakup and Milkshake?
+
+No noticable patterns.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the article?
+
+I'm not seeing anything super noticable in the lines other than a section where the lines decrease for a bit at the same time, but that makes me believe that the article isn't that reliable. 
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore.”
+
+a) What was the top state by interest for Milkshake?
+
+The state with the most interest is Delaware.
+
+b) What was the top state by interest for Hamburger?
+
+The state with the most interest is South Dakota.
