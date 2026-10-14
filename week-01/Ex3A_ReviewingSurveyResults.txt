@@ -1,0 +1,50 @@
+1. What conclusion can you reach about the responses to this question?
+
+Some things I can conclude from the responses are that most people could be on a laptop based off the fact that the majority of people don't have a second monitor and don't have an external keyboard or mouse. 
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+I think some of it is helpful. The visuals for the multiple choice questions help a lot and is easy to read which answers were picked more. However, the first and last questions aren't as good because it shows the most common
+words used which can be a little inaccurate. 
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+
+There is a "More deatails" button on each of the responces that display the answers where somebody selected other. While analyzing the other options, I realized that it takes a lot longer and there are so many different things
+said it cannot be narrowed down to just one thing. 
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+
+Even though the most used words are displayed can be inacurate, they can still give a hint on what people are answering without reading. For example, the very first question, one of the words is "notes", which most likely means
+that people are going to get their notes ready 5 minutes before class. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+
+If I were to remake this, I would delete the other option on all the yes or no questions. For example, the second question asking if someone has a second monitor or not, the answer is simply yes or no. An answer under other
+can also just be a simple yes or no, but having the other option makes going through the data harder.
+
+Next respond to the below questions:
+6. Is there anything that surprised you about the survey responses?
+
+Yes, I was expecting more people to be on a personal desktop instead of a laptop when working at home and while in class it looks like a lot of people do have multiple monitors. However, judging off the responses, it sounds 
+like a lot of people are doing work off a laptop instead. 
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+Year Up United Data Analyst Training Academy Week 1 Lab Workbook
+Page 14 of 55
+
+A question that I noticed from the responses was if we needed to learn any other languages for data analytics. This question got me thinking about if different companies required us to know different softwares or not.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+
+A couple of the answers in the last question bring up AI. If I were an instructor looking at this, I might try to incorprate a little bit of AI into the assignments to help people get an understanding
+on how AI is used in the work place as a data analyst. 
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not?
+
+I think it is helpful because people tend to be more honest with their answers when they know people can't see who's putting in the answers. This will help an instructor by really knowing what the students have, want, and need. 
