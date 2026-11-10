@@ -7,3 +7,9 @@ auto_policy_number = 'AP987654' # The auto policy number can have letters and nu
 
 name = 'Timothy Yip'
 city = 'Milpitas'
+
+# break - to break out of a loop
+# def - to define a function
+# import - to import a module
+# match - to match a value against a pattern
+# pass - a null statement, a statement that will do nothing
