@@ -17,4 +17,4 @@ print(name_2_cleaned)
 print(name_3_cleaned)
 
 salary_1_cleaned = int(salary_1.replace("$", "").replace(",", ""))
-print(salary_1_cleaned, type(salary_1_cleaned))
+print(salary_1_cleaned, type(salary_1_cleaned)) 
